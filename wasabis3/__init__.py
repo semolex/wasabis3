@@ -1,1 +1,1 @@
-from .wasabi import get_client
+from .wasabi import WasabiStorage
